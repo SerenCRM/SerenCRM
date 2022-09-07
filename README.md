@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SerenCRM (Call me 'Haggis')
 - 👀 I’m interested in data science (Python), salesforce automation(Apex + JS)
 - 🌱 I’m currently focused on Python, Apex and JavaScript
-- 💞️ I’m looking to collaborate on customizing Salesforce Web-to-Lead forms in  WordPress and Developing Lighting Web Components
+- 💞️ I’m looking to collaborate on Data Analysis and Salesforce automation projects.
 - 📫 How to reach me: 
 
 <!---
